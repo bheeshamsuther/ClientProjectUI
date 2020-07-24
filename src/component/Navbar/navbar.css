@@ -1,0 +1,20 @@
+._Navbar{
+    background-color: dodgerblue !important;
+}
+
+
+._navbarPage{
+    color: white !important;
+    font-weight: bold;
+    /* font-size: 20px; */
+    /* padding: 2% !important; */
+    
+}
+
+.mr-auto{
+   /* padding: 0.5% !important; */
+}
+
+#basic-nav-dropdown{
+    color: white !important;
+}
